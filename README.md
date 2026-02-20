@@ -37,7 +37,7 @@ Loss Function: Sparse Categorical Crossentropy
 
 - Final Training Accuracy: 100%
 - Final Validation Accuracy: ~99%
-- Final Test Accuracy: **89.28%**
+- Final Test Accuracy: **83.63%**
 - Final Test Loss: 0.5472
 
 ---
